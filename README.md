@@ -64,20 +64,22 @@ Based on lane and object detection:
 
 alerts are generated dynamically.
 
----
-
 ## 📸 Project Outputs
 
 ### Original Frame
-![Original Image](images/original-road.png)
+<p align="center">
+  <img src="images/original-road.png" width="700" height="400"/>
+</p>
 
 ### Object Detection using YOLOv3
-![Object Detection](images/object-detection.jpg)
+<p align="center">
+  <img src="images/object-detection.jpg" width="700" height="400"/>
+</p>
 
 ### Lane + Object Detection with Traffic Alert
-![Lane and Object Detection](images/lane-object-detection.jpg)
-
----
+<p align="center">
+  <img src="images/lane-object-detection.jpg" width="700" height="400"/>
+</p>
 
 ## 📄 Conference Publication
 
