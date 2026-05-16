@@ -69,10 +69,10 @@ alerts are generated dynamically.
 ## 📸 Project Outputs
 
 ### Original Frame
-![Original Image](images/original-road.png)
+![Original Image](images/original-road.jpg)
 
 ### Object Detection using YOLOv3
-![Object Detection](images/object-detection.png)
+![Object Detection](images/object-detection.jpg)
 
 ### Lane + Object Detection with Traffic Alert
 ![Lane and Object Detection](images/lane-object-detection.png)
